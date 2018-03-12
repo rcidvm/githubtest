@@ -1,8 +1,4 @@
-# githubtest
-This repos is for testing how it works
+# CidPM
+This repos is for manage projects and activities. Also to run test for the use of GitHub
 readme-edits
-Hello world this is my first CHANGE.
 
-Hello world
-Also i want to commit.
- master
